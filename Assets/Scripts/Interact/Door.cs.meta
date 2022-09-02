@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b58f332f55acf174eb953e60d090b574
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - OneDoorOpen: {fileID: 8300000, guid: 262052c01b9bd0647917855a21bc7a66, type: 3}
+  - OneDoorClose: {fileID: 8300000, guid: ef8e1de26c49a9c478e3cfa2d2803f4d, type: 3}
+  - TwoDoorOpen: {fileID: 8300000, guid: 1b620f5059550434e9454c2695f33792, type: 3}
+  - TwoDoorClose: {fileID: 8300000, guid: 0df9d4a96c98be84db6e34b04e4cc924, type: 3}
+  - CabinetDoorOpen: {fileID: 8300000, guid: bedb031417115f44b868a61e1bcb5652, type: 3}
+  - CabinetDoorClose: {fileID: 8300000, guid: 965e562042e197444a0cf24986fb49b1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
