@@ -14,4 +14,4 @@
 ## 링크
 프로젝트가 완료된 후 `<a>` 태그의 `href` 속성에 관련된 링크를 작성합니다.
 
-<a href="https://www.youtube.com"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white"></a>
+<a href="https://www.youtube.com/watch?v=Ji_hqVwMyzk"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white"></a>
